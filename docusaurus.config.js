@@ -9,7 +9,7 @@ const config = {
   title: 'Ressources Relationnelles',
   tagline: 'Le partage et l\'échange de connaissances',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/Documentation-E-Citoyen/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
