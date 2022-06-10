@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunke_citoyen=self.webpackChunke_citoyen||[]).push([[7328],{6204:function(e){e.exports=JSON.parse('{"label":"hola","permalink":"/Documentation-E-Citoyen/en/blog/tags/hola","allTagsPath":"/Documentation-E-Citoyen/en/blog/tags","count":1}')}}]);
