@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunke_citoyen=self.webpackChunke_citoyen||[]).push([[453],{8605:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/blog/tags/hello","allTagsPath":"/blog/tags","count":2}')}}]);
